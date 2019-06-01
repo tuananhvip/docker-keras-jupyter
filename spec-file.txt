@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-@EXPLICIT
+# @EXPLICIT
 https://repo.anaconda.com/pkgs/main/linux-64/_tflow_select-2.1.0-gpu.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/blas-1.0-mkl.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2019.3.9-hecc5488_0.tar.bz2
@@ -192,6 +192,6 @@ https://repo.anaconda.com/pkgs/main/linux-64/tensorflow-gpu-1.12.0-h0d30ee6_0.ta
 https://repo.anaconda.com/pkgs/main/linux-64/keras-2.2.4-0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/keras-gpu-2.2.4-0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/qt-5.6.3-h8bf5577_3.tar.bz2
-https://conda.anaconda.org/pytorch/linux-64/pytorch-1.0.1-py3.6_cuda9.0.176_cudnn7.4.2_2.tar.bz2
-https://conda.anaconda.org/pytorch/noarch/torchvision-0.2.1-py_2.tar.bz2
+#https://conda.anaconda.org/pytorch/linux-64/pytorch-1.0.1-py3.6_cuda9.0.176_cudnn7.4.2_2.tar.bz2
+#https://conda.anaconda.org/pytorch/noarch/torchvision-0.2.1-py_2.tar.bz2
 
