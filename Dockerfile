@@ -14,6 +14,9 @@ RUN apt-get update \
       graphviz \
     && rm -rf /var/lib/apt/lists/* \
     && conda install -y \
+      cudatoolkit=9.0 \
+      cudnn=7.3 \
+      cupti=9.0.176 \
       pydot \
       jupyter \
       matplotlib \
